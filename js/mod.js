@@ -63,6 +63,7 @@ const mod = {
         ["Ubuntu", "css/fonts/ubuntu.css"],
         ["Comfortaa", "css/fonts/comfortaa.css"],
         ["Minecraft", "css/fonts/minecraft.css"],
+        ["Autumn", "css/fonts/Autumn in September.ttf"],
     ],
     saves: [
         ["Save 1", ""],
