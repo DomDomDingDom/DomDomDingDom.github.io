@@ -1,1 +1,8 @@
+@font-face{
+    font-family: Autumn-font;
+    src: url('../../fonts/Autumn In September.ttf');
+}
 
+:root{
+    --primary-font: Autumn-font
+}
