@@ -1,5 +1,8 @@
-# ωEngine v1.0.0
-### A engine made from Ω-Lλγers built for making mods
-#### <a href='https://veprogames.github.io/omega-layers'>Ω-Lλγers</a> (the original) by VeproGames
-#### Play the engine <a href='https://domdomdingdom.github.io/'>now</a>
-##### Feel free to fork this, either to make your own mods or make pull requests with new features
+#Omega Layers XXXI
+####Omega Layers XXXI is a soon to be collaberation project to make omega layers better. 
+###FEATURES BELOW
+#####1. Save Bank
+#####2. Font Injector
+#####3. Debug Menu for adding layers
+#####4. And so much more!
+## If you would like to be a part of this project, Dm me on discord at @Dowd_Offical
