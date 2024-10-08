@@ -207,7 +207,7 @@ class PrestigeLayer
                 case UPGRADE_GENERATOR:
                     upg = new LayerUpgrade(this, game.layers[0] || this,
                         level => Utils.createValueDilation(Decimal.pow(3 * i + 8 + extraPriceIncrease, level).mul(bp), 0.01).pow(LayerUpgrade.getPricePower()),
-                        level => Decimal.pow(effectGenerator, level).pow(extraPow).pow(LayerUpgrade.getEffectPower().mul(0.5)), UPGRADE_GENERATOR, {
+                        level => Decimal.pow(effectGenerator, level).pow(extraPow).pow(LayerUpgrade.getEffectPower().mul(2)), UPGRADE_GENERATOR, {
                             generators: Utils.generateGeneratorList(2, rand).sort()
                         });
                     break;
