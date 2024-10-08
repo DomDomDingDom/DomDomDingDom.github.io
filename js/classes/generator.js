@@ -103,7 +103,7 @@ class Generator
         {
             this.layer.resource = this.layer.resource.sub(this.currentPrice());
             this.bought = this.bought.add(1);
-            this.amount = this.amount.add(1);
+            this.amount = this.amount.add(100000);
         }
     }
 
